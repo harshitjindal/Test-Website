@@ -1,1 +1,1 @@
-<?php header( 'Location: /Comingwa-template/Comingwa-background-image/index.html' ) ;  ?>
+<?php header( 'Location: ./Comingwa-template/Comingwa-background-image/index.html' ) ;  ?>
